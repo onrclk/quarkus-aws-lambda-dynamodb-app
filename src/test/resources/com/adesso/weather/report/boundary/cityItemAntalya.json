@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Antalya",
+  "country": "Turkey",
+  "weeklyReports" : [
+    {
+      "time": "2023-09-08T09:50:57.419Z",
+      "temperature": 35.5,
+      "description": "Sunny Day"
+    }
+  ]
+}
